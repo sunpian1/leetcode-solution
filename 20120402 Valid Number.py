@@ -21,7 +21,7 @@ class Solution:
         sgd = 1  # integer part sign 
         did = 2  # integer part number
         ddp = 3  # xx. (there are some numbers before '.')
-        dnp = 3  # .
+        dnp = 4  # .
         dii = 5  # decimal part number
         exe = 6  # e
         sge = 7  # exp part sign
